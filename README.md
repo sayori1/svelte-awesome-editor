@@ -2,10 +2,12 @@
 
 Notion-style editor for svelte. 
 Currently supports 3 components:
-Header
-Text
-Pallete
-Features:
+
+1. Header
+2. Text
+3. Pallete
+
+## Features:
 1) Lightweight and optimized
 2) Moving components
 3) Convert to json, convert from json to save and interact with the backend.
