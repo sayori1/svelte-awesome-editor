@@ -1,5 +1,7 @@
 # svelte-awesome-editor
 
+`npm install --save-dev svelte-awesome-editor`
+
 Notion-style editor for svelte. 
 Currently supports 3 components:
 
